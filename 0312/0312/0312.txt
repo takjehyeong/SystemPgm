@@ -1,0 +1,16 @@
+Script started on 2024-03-12 19:39:31+09:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="70" LINES="38"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;tjh0157@LAPTOP-D74D1F1D: ~/0312[01;32mtjh0157@LAPTOP-D74D1F1D[00m:[01;34m~/0312[00m$ ls
+[?2004l0312.txt  abc.save
+[?2004h]0;tjh0157@LAPTOP-D74D1F1D: ~/0312[01;32mtjh0157@LAPTOP-D74D1F1D[00m:[01;34m~/0312[00m$ ls-[K -l
+[?2004ltotal 4
+-rw-r--r-- 1 tjh0157 tjh0157 0 Mar 12 19:39 0312.txt
+-rw------- 1 tjh0157 tjh0157 1 Mar 12 19:03 abc.save
+[?2004h]0;tjh0157@LAPTOP-D74D1F1D: ~/0312[01;32mtjh0157@LAPTOP-D74D1F1D[00m:[01;34m~/0312[00m$ date
+[?2004lTue Mar 12 19:39:58 KST 2024
+[?2004h]0;tjh0157@LAPTOP-D74D1F1D: ~/0312[01;32mtjh0157@LAPTOP-D74D1F1D[00m:[01;34m~/0312[00m$ exit
+[?2004lexit
+
+Script done on 2024-03-12 19:40:09+09:00 [COMMAND_EXIT_CODE="0"]
